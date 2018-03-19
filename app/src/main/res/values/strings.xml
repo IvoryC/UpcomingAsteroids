@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">UpcomingAsteroids</string>
+    <string name="app_title">Upcoming Asteroids</string>
+    <string name="getAsteroids">Get Asteroids</string>
+    <string name="startDateLabel">Start Date:</string>
+    <string name="endDateLabel">End Date:</string>
+    <string name="defaultStartDate">Todays date</string>
+    <string name="defaultEndDate">Next week</string>
 </resources>
